@@ -1,0 +1,10 @@
+2017/01/12 15:49:02 [1572] name lookup failed for 202.163.16.100: hostname nor servname provided, or not known
+2017/01/12 15:49:02 [1572] connect from UNKNOWN (202.163.16.100)
+2017/01/12 15:49:02 [1572] rsync to cyzb/ from tcc@unknown (202.163.16.100)
+2017/01/12 15:49:02 [1572] receiving file list
+2017/01/12 15:49:06 [1572] ./
+2017/01/12 15:49:12 [1572] rsync: write failed on "cwRsync_4.1.0server和client.zip" (in cyzb): No space left on device (28)
+2017/01/12 15:49:12 [1572] rsync error: error in file IO (code 11) at receiver.c(322) [receiver=3.0.8]
+2017/01/12 15:49:12 [1572] rsync: connection unexpectedly closed (108 bytes received so far) [generator]
+2017/01/12 15:49:12 [1572] rsync error: error in rsync protocol data stream (code 12) at io.c(610) [generator=3.0.8]
+
